@@ -31,11 +31,20 @@ Through these activities, I aim to improve my knowledge of cloud technologies, i
 
 cloud-computing-course/
 
-├── activities/ # Course activities and laboratory exercises
-├── projects/ # Mini-projects and practical implementations
-├── notes/ # Class notes and learning summaries
-├── reflections/ # Reflection papers and personal insights
-└── README.md # Repository documentation
+├── activities/
+│ └── Contains laboratory activities, exercises, and course tasks
+│
+├── projects/
+│ └── Contains mini-projects, implementations, and practical outputs
+│
+├── notes/
+│ └── Contains class notes, summaries, and important learning materials
+│
+├── reflections/
+│ └── Contains reflection papers and personal learning insights
+│
+└── README.md
+└── Provides an overview and documentation of the repository
 
 ---
 
