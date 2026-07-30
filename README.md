@@ -29,23 +29,6 @@ Through these activities, I aim to improve my knowledge of cloud technologies, i
 
 ## 📂 Repository Structure
 
-cloud-computing-course/
-
-├── activities/
-│ └── Contains laboratory activities, exercises, and course tasks
-│
-├── projects/
-│ └── Contains mini-projects, implementations, and practical outputs
-│
-├── notes/
-│ └── Contains class notes, summaries, and important learning materials
-│
-├── reflections/
-│ └── Contains reflection papers and personal learning insights
-│
-└── README.md
-└── Provides an overview and documentation of the repository
-
 ---
 
 ## 📖 Key Concepts Covered
