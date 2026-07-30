@@ -16,7 +16,7 @@ This repo serves as my organized workspace for all course requirements, includin
 ## 👤 Student Information
 
 - Name: Joven D. Catungal
-- Course/Section: BSIT 3H
+- Course/Section: BSIT 4H
 - Instructor: Jenkielyn Torres
 - School Year: 2026-2027
 
