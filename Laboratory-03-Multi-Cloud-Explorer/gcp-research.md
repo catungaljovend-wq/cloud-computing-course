@@ -36,3 +36,6 @@ Google Cloud can be used by enterprises for:
 - Database management
 - Running global applications
 
+## Sources
+
+- Google Cloud Platform. (n.d.). Google Cloud. https://cloud.google.com/
