@@ -37,3 +37,6 @@ AWS can be used by enterprises for:
 - Running databases
 - Developing and deploying applications
 - Building scalable business systems
+
+## Sources
+- Amazon Web Services. (n.d.). Amazon. https://aws.amazon.com/
