@@ -20,12 +20,12 @@ The Google Cloud console provides a web-based, graphical user interface that you
 -is a managed implementation of the Kubernetes open source container orchestration platform.
 
 ## 5. Three Advantages
-### Global Infrastructure
--
-### AI and Machine Learning Capabilities
--
-### Kubernetes and Container Support
--
+### Faster time to market
+-you can spin up new instances or retire them in seconds, allowing developers to accelerate development with quick deployments.
+### Scalability and flexibility
+-cloud computing gives your business more flexibility.
+### Cost savings
+-you only pay for the resources you actually use.
 
 ## 6. Typical Enterprise Use Cases
 
