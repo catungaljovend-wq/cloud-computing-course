@@ -28,4 +28,11 @@ The Google Cloud console provides a web-based, graphical user interface that you
 -you only pay for the resources you actually use.
 
 ## 6. Typical Enterprise Use Cases
+Google Cloud can be used by enterprises for:
+
+- Hosting websites and business applications
+- Data analytics and processing
+- Artificial Intelligence and Machine Learning
+- Database management
+- Running global applications
 
