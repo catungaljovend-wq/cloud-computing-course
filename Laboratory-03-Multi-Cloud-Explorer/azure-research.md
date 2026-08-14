@@ -28,7 +28,13 @@ Here you can also build, deploy, and optimize resources centrally for your Azure
 -you can get a $2,000 Azure grant annually, plus more grants and discounts across Dynamics 365 and Microsoft 365.
 
 ## 6. Typical Enterprise Use Cases
-Explore Azure customer success stories and case studies to see how organizations all over the world are optimizing their costs and gaining new capabilities.
+Microsoft Azure is commonly used by enterprises for:
+- Hosting websites, mobile applications, and business applications
+- Storing and backing up business data
+- Managing cloud databases
+- Migrating existing IT infrastructure to the cloud
+- Developing Artificial Intelligence and Machine Learning applications
+- Supporting business continuity and disaster recovery
 
 ## Sources
 - Microsoft. (n.d.). Microsoft Azure. https://azure.microsoft.com/
