@@ -11,14 +11,24 @@ Here you can also build, deploy, and optimize resources centrally for your Azure
 
 ## 4. Four Core Services
 #### Virtual Machines (VMs) 
-- for all of your application needs
+-for all of your application needs.
 ### Azure Blob Storage 
-- helps you create data lakes for your analytics needs and provides storage to build powerful cloud-native and mobile apps.
+-helps you create data lakes for your analytics needs and provides storage to build powerful cloud-native and mobile apps.
 ### Azure SQL Database 
-- is a cloud native relational database service built on the SQL Server engine and designed for high performance and elastic scale.
+-is a cloud native relational database service built on the SQL Server engine and designed for high performance and elastic scale.
 ### Azure Virtual Network Manager 
-- lets you create and manage virtual networks across regions and subscriptions from a single pane of glass.
+-lets you create and manage virtual networks across regions and subscriptions from a single pane of glass.
 
 ## 5. Three Advantages
+### Azure free account
+-exploring Azure by signing up for a free account.
+### Azure for students
+-free monthly allowances of popular services and a $100 credit each for students.
+### Azure for nonprofits
+-you can get a $2,000 Azure grant annually, plus more grants and discounts across Dynamics 365 and Microsoft 365.
 
 ## 6. Typical Enterprise Use Cases
+Explore Azure customer success stories and case studies to see how organizations all over the world are optimizing their costs and gaining new capabilities.
+
+## Sources
+- Microsoft. (n.d.). Microsoft Azure. https://azure.microsoft.com/
