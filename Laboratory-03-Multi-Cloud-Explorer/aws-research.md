@@ -32,8 +32,8 @@ The AWS Management Console is a web-based application that provides a centralize
 ## 6. Typical Enterprise Use Cases
 AWS can be used by enterprises for:
 
--Hosting websites and web applications
--Storing and backing up business data
--Running databases
--Developing and deploying applications
--Building scalable business systems
+- Hosting websites and web applications
+- Storing and backing up business data
+- Running databases
+- Developing and deploying applications
+- Building scalable business systems
