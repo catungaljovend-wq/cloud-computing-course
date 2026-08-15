@@ -1,4 +1,4 @@
-# Mission 3 Reflection
+# Mission Reflection
 
 Completing Mission 3 helped me understand the differences between AWS, Microsoft Azure, and Google Cloud Platform. Before doing this activity, I mostly knew these platforms as cloud service providers, but researching their services helped me understand that each provider has different strengths. The cloud platform that impressed me the most was GCP because it has a allowance for students and that's a big help to us.
 
