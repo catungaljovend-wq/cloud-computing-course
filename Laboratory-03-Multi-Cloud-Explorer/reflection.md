@@ -1,6 +1,6 @@
 # Mission Reflection
 
-Completing Mission 3 helped me understand the differences between AWS, Microsoft Azure, and Google Cloud Platform. Before doing this activity, I mostly knew these platforms as cloud service providers, but researching their services helped me understand that each provider has different strengths. The cloud platform that impressed me the most was GCP because it has a allowance for students and that's a big help to us.
+Completing Mission 3 helped me understand the differences between AWS, Microsoft Azure, and Google Cloud Platform. Before doing this activity, I mostly knew these platforms as cloud service providers, but researching their services helped me understand that each provider has different strengths. The cloud platform that impressed me the most was Azure because it has free monthly allowance for students and that's a big help to us.
 
 One similarity among AWS, Azure, and Google Cloud is that they all provide important cloud services such as computing, storage, networking, databases, and security. However, they differ in the way they organize their services and the areas where they are particularly strong. This made me realize that choosing a cloud provider should not be based only on popularity.
 
