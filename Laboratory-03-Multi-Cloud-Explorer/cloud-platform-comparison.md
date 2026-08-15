@@ -1,3 +1,4 @@
+## Compare the Major Cloud Platforms
 | Category            | AWS                            | Microsoft Azure                            | Google Cloud Platform                                            |
 | ------------------- | ------------------------------ | ------------------------------------------ | ---------------------------------------------------------------- |
 | Launch Year         | 2006                           | 2010                                       | 2008                                                             |
@@ -21,8 +22,7 @@ Google Cloud is a strong choice for Artificial Intelligence and Kubernetes workl
 ### 4.Which cloud platform would you personally choose and why?
 I would personally choose AWS because it provides a wide range of cloud services that can be useful for different types of projects. I also think AWS would be a good platform to learn because its services cover many areas of cloud computing. Learning AWS could help me understand different cloud technologies and prepare me for future IT projects.
 
-## Equivalent Cloud Services
-
+## Match the Cloud Services
 | Service Category | AWS | Azure | GCP |
 |---|---|---|---|
 | Virtual Machine | Amazon EC2 | Azure Virtual Machines | Compute Engine |
