@@ -1,3 +1,4 @@
+# Cloud Platform Recommendation Challenge
 ## Client A — Startup Company
 ### Recommended Platform: AWS
 
@@ -42,7 +43,6 @@ AWS is a suitable choice for a global e-commerce company because it provides a b
 - Amazon EC2 Auto Scaling
 
 ## Multi-Cloud Decision Matrix
-
 | Business Requirement | Recommended Platform | Justification |
 |---|---|---|
 | Startup Company | AWS | Wide range of services and flexible cloud resources for growing applications. |
